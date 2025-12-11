@@ -1,69 +1,82 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate Developer / Analyst / Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Hitesh Pawar</h1>
+<h3 align="center">Final-year CSE Student | MERN Developer | Data Analyst | AI & ML Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Your Project**
-- 🌱 I’m learning **Technology / Tools**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Skills / Tools**
-- 📫 How to reach me: **yourmail@example.com**
-- ⚡ Fun fact: **Something interesting**
+## 🧑‍💻 About Me
+- 🎓 Final-year **Computer Science Engineering** student at Parul University  
+- 💡 MERN Stack developer with hands-on project experience  
+- 📊 Data Analyst fresher skilled in **Python, Excel, Power BI, Tableau**  
+- 🤖 Passionate about **AI-powered solutions**, machine learning & dashboards  
+- 📫 Reach me at: **hiteshpawar3105@gmail.com**
 
----
 
-## 🛠️ Languages & Tools
+## 🛠️ Technical Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,bootstrap,tailwind,git,github,mysql,postgres,figma,vscode" />
-</p>
+### **Programming Languages**
+`C` `Java` `Python` `HTML` `CSS`
+
+### **Technologies**
+`Flask` `Django` `Scikit-learn` `Pandas` `NumPy` `Power BI` `Tableau`
+
+### **Machine Learning**
+`Supervised & Unsupervised Learning` `Neural Networks` `NLP`
+
+### **CS Fundamentals**
+`OOPs` `DBMS` `Computer Networks` `Operating Systems`
+
+### **Coursework**
+`DSA` `Design & Analysis of Algorithms` `DADV`
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=hiteshpawar3105&show_icons=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshpawar3105&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-## 🧰 Top Languages
+## 📈 Top Languages Used
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshpawar3105&layout=compact&theme=tokyonight" height="150" />
 </p>
+
+---
+
+## 🎓 Education
+- **Bachelor of Computer Science & Engineering**  
+  Parul University (2022–2026)
+
+- **PCMB (12th)**  
+  Janta Vidhyalay & College, Malegaon (2020–2022)
+
+---
+
+## 🏅 Certifications
+- PU Code Hackathon 2.0  
+- Computer Networks & Internet Protocol – **IIT Kharagpur**  
+- AWS Cloud Verse  
+
+---
+
+## 🚀 Activities
+- Tableau Workshop  
+- Projection – Tech Event at Parul University  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINK/" target="_blank">
+<a href="https://www.linkedin.com/in/hitesh-pawar-0b5032247" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/hiteshpawar3105" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
 ---
 
-## 🗂️ Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔥 **Project 1** | Short description | React, Node |
-| 📊 **Project 2** | Short description | Python, ML |
-| 🎯 **Project 3** | Short description | Java, SQL |
-
----
-
-## 🏆 Achievements
-- ⭐ Hackathon Winner (Year)
-- 🥇 Certifications
-- 📢 Workshops / Talks
-
----
-
-### ✨ *Thanks for visiting my profile!*
+### ✨ *Thanks for visiting my profile! Feel free to explore my projects.* 
