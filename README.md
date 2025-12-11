@@ -28,22 +28,7 @@
 ### **Coursework**
 `DSA` `Design & Analysis of Algorithms` `DADV`
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hiteshpawar3105&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshpawar3105&theme=tokyonight" height="150" />
-</p>
-
----
-
-## 📈 Top Languages Used
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshpawar3105&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
 
 ## 🎓 Education
 - **Bachelor of Computer Science & Engineering**  
